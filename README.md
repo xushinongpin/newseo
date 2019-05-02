@@ -1,4 +1,4 @@
-# 所有笔记入口
+# [所有笔记入口](https://legacy.gitbook.com/book/xushinongpinseo/life/edit#/edit/master/README.md?_k=b32was)
 
 #  {#后台}
 
