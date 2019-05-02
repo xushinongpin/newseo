@@ -8,11 +8,13 @@
 2. ## [tp几个坑](https://tp.lvtian.vip/) {#tp几个坑}
 3. ## [**laravel初学笔记**](https://laravel.lvtian.vip/) {#laravel初学笔记}
 4. ## [learnku初学笔记](https://learnku.lvtian.vip/) {#learnku初学笔记}
-5. ## [learnku开发实战进阶](https://learnku-2.ilvtian.vip/) {#learnku开发实战进阶}
-6. ## [learnku电商实战](https://learnku-shop.ilvtian.vip/) {#learnku电商实战-}
-7. ## [多租户笔记](https://multi-tenant.lvtian.vip/) {#多租户笔记}
-8. ## [微信-没用](https://wechat.lvtian.vip/) {#微信-没用}
-9. ## [微擎备忘-没用](https://weiqing.lvtian.vip/) {#微擎备忘-没用}
+5. ## [learnku L01 Laravel 教程 - Web 开发实战入门 \( Laravel 5.8）-cupy](https://learnku-1.ilvtian.vip/) {#learnku初学笔记}
+6. ## [learnku L02 Laravel 教程 - Web 开发实战进阶 \( Laravel 5.7 \) -cupy](https://learnku-2.ilvtian.vip/) {#learnku开发实战进阶}
+7. ## [learnku L03 Laravel 教程 - 实战构架 API 服务器 \( Laravel 5.7 \) -cupy](https://learnku-3.ilvtian.vip/) {#learnku开发实战进阶}
+8. ## [learnkuL05 Laravel 教程 - 电商实战 \( Laravel 5.8 \) -cupy ](https://learnku-shop.ilvtian.vip/) {#learnku电商实战-}
+9. ## [多租户笔记](https://multi-tenant.lvtian.vip/) {#多租户笔记}
+10. ## [微信-没用](https://wechat.lvtian.vip/) {#微信-没用}
+11. ## [微擎备忘-没用](https://weiqing.lvtian.vip/) {#微擎备忘-没用}
 
 # 前台 {#前台}
 
